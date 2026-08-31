@@ -1,0 +1,3 @@
+pyusb>=1.2.0
+# build dependency (only needed to make the standalone .exe)
+pyinstaller>=5.0
